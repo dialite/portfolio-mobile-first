@@ -1,26 +1,28 @@
-.container{
+.container {
   position: absolute;
   background-image: url("img/mobile-icon.png");
-  background-color: white;
-  width: 30rem;
+  background-color: #fff;
+  width: 375px;
   margin: 0;
   height: 30rem;
   background-repeat: no-repeat;
 }
 
-nav {
+header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   background-size: 70vw;
-  margin: 0 1.2rem 2rem;
-  background-color: white;
-  width: 20rem;
-}
+  margin: 0 0 1.2rem 1.2rem;
+  background-color: #fff;
+  width: 327px;
+  }
 
 h1 {
+  display: flex;
+  align-items: center;
   height: 9.375rem;
-  width: 15rem;
+  width: 240px;
   margin: 3.5rem 1.2rem 1rem;
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -34,13 +36,25 @@ a {
   font-size: 1.2rem;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
+.contacts:hover {
+  background-color: #6070ff;
+}
+
 h4 {
-  font-family: sans-serif;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  color: #6070ff;
 }
 
 p {
   font-style: normal;
-  width: 20rem;
+  width: 327px;
   margin: 0 1.5rem;
   font-family: "Poppins", sans-serif;
   line-height: 24px;
@@ -57,7 +71,7 @@ h3 {
   font-style: normal;
   width: 7rem;
   font-family: "Poppins", sans-serif;
-  color: blue;
+  color: #6070ff;
   font-size: 15px;
   font-weight: 400;
   height: 1.5rem;
