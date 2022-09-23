@@ -1,0 +1,41 @@
+.container{
+  position: absolute;
+  background-image: url("img/mobile-icon.png");
+  background-color: white;
+  width: 30rem;
+  margin: 0;
+  height: 30rem;
+  background-repeat: no-repeat;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-size: 70vw;
+  margin: 0 1.5rem 2rem;
+  background-color: white;
+  width: 20rem;
+}
+
+h1 {
+  height: 9.375rem;
+  width: 15rem;
+  margin: 3rem 1.2rem;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px;
+  font-size: 32px;
+  top: 114px;
+  left: 24px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+h4 {
+  font-family: sans-serif;
+}
