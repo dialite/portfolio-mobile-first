@@ -26,6 +26,7 @@ This is a my first phase project on my personal portfolio development with micro
 6. Once the download is complete you will be able to access my project locally.
 7. Also, you can navigate to your folder using a console.
 8. Then run git clone https://github.com/dialite/portfolio-mobile-first
+<<<<<<< HEAD
 
 Here is a link directly to the repository page: https://github.com/dialite/portfolio-mobile-first
 
@@ -63,3 +64,43 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat dop to Figma for the images used
+=======
+Here is a link directly to the repository page: https://github.com/dialite/portfolio-mobile-first
+
+
+### Basic Knowledge in HTML and CSS
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+## Raymond Olisa
+
+👤 Raymond Olisa
+
+- GitHub: [@dialite](https://github.com/dialite)
+- Twitter: [@raymondolisa01](https://twitter.com/raymondolisa01)
+- LinkedIn: [raymond-olisa](https://www.linkedin.com/in/raymond-olisa-775929243/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat dop to anyone whose code was used
+- Inspiration
+- etc
+>>>>>>> d36264d8ea8b4abf4684600474e813c991e0163a
