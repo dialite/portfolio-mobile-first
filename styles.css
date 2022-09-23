@@ -1,3 +1,64 @@
+/* .container{
+  position:absolute;
+  margin: 0;
+  height: 30rem;
+  background-repeat: no-repeat;
+  background-color: white;
+
+}
+
+.content {
+  position: relative;
+  background-image: url("img/mobile-icon.png");
+  background-color: white;
+  width: 23rem;
+}
+
+nav {
+  align-items: center;
+  justify-content: space-between;
+  background-size: 100vw;
+  margin: 0 1.2rem 1rem;
+  background-color: white;
+  width: 19rem;
+}
+
+h1 {
+  height: 9.375rem;
+  width: 15rem;
+  margin: 3rem 1.2rem 1rem;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 52px;
+  font-size: 32px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+h4 {
+  font-family: sans-serif;
+}
+
+p {
+  font-style: normal;
+  width: 19rem;
+  margin: 0 1.5rem;
+  font-family: "Poppins", sans-serif;
+  line-height: 24px;
+  font-weight: 400;
+  font-size: 15px;
+} */
+
+
+
+
+
+
+
 .container{
   position: absolute;
   background-image: url("img/mobile-icon.png");
@@ -21,14 +82,12 @@ nav {
 h1 {
   height: 9.375rem;
   width: 15rem;
-  margin: 3rem 1.2rem;
+  margin: 3.5rem 1.2rem 1rem;
   font-family: "Poppins", sans-serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 52px;
   font-size: 32px;
-  top: 114px;
-  left: 24px;
 }
 
 a {
@@ -38,4 +97,14 @@ a {
 
 h4 {
   font-family: sans-serif;
+}
+
+p {
+  font-style: normal;
+  width: 20rem;
+  margin: 0 1.5rem;
+  font-family: "Poppins", sans-serif;
+  line-height: 24px;
+  font-weight: 400;
+  font-size: 15px;
 }
